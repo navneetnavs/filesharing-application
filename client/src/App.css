@@ -34,6 +34,10 @@ h1 {
   color: #445A6F;
   margin: 40px 0;
 }
+p {
+  font-size: 17px;
+  color: burlywood;
+}
 
 input {
   margin: 20px 0;

@@ -44,6 +44,9 @@ function App() {
         />
 
         <a href={result} target='_blank'>{result}</a> 
+        <br></br>
+        <br></br>
+        <h6>❤️ by Navneet</h6>
       </div>
     </div>
   );
